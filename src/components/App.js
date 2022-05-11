@@ -1,6 +1,7 @@
 import logo from '../media/logo.svg';
 import '../styles/App.css';
 import Box3d from './Box3d';
+import Noticia from './Notica';
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <Noticia></Noticia>
 
       <Box3d></Box3d>
     </div>

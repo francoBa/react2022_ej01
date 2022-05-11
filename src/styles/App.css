@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.noticia {
+  background-color: aquamarine;
+  padding: 1rem;
+}
+
+.noticia-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: blueviolet;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
